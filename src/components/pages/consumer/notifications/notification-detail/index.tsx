@@ -20,7 +20,7 @@ export default function ConsumerNotification() {
 						</h1>
 						<h1 className="w-full pb-3">
 							<strong>Notification Source:</strong>
-							<span> InfoCross</span>
+							<span> IVOMO</span>
 						</h1>
 						<h1 className="w-full pb-3">
 							<strong>Message:</strong>

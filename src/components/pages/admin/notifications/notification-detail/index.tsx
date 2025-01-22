@@ -30,7 +30,7 @@ export default function AdminNotificationDetail() {
 					</div>
 					<div className="p-2 flex flex-row justify-between w-full bg-gray-50 dark:bg-slate-900 rounded-md">
 						<p className="font-bold dark:text-gray-300">Notification Source:</p>
-						<p className="font-semibold text-gray-500">Info Cross</p>
+						<p className="font-semibold text-gray-500">IVOMO</p>
 					</div>
 					<div className="p-2 flex flex-col justify-between gap-2 w-full bg-gray-50 dark:bg-slate-900 rounded-md">
 						<p className="font-bold dark:text-gray-300">Message:</p>

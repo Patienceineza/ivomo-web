@@ -128,7 +128,7 @@ const themeConfigSlice = createSlice({
         },
 
         setPageTitle(state, { payload }) {
-            document.title = `${payload} | Info Cross`;
+            document.title = `${payload} | IVOMO`;
         },
     },
 });
